@@ -1,9 +1,3 @@
-# Day 18 of 100DaysofCode
-
-Feeling excited to start Day 18 of 100 DaysOfCode, today, I built a program to deploy a cloud native voting application to EKS with help of a great Video by [Cloud Champ](https://youtu.be/pTmIoKUeU-A?si=_OOjZ_2bo8gWseDZ). This video explains EKS, the frameworks used and how to deploy a Kubernetes Real life project.
-
-
-
 # Cloud-Native Web Voting Application with Kubernetes
 
 This cloud-native web application is built using a mix of technologies. It's designed to be accessible to users via the internet, allowing them to vote for their preferred programming language out of six choices: C#, Python, JavaScript, Go, Java, and NodeJS.
